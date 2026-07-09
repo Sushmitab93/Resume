@@ -33,4 +33,4 @@ Developed and backtested 11 technical indicator-based trading strategies across 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL) · [GitHub](https://github.com/Sushmitab93)
+[LinkedIn](https://www.linkedin.com/in/sushmitabehera21/) · [GitHub](https://github.com/Sushmitab93)

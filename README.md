@@ -1,10 +1,10 @@
 # Sushmita Behera
 
-**Data Analytics | Machine Learning | AI**
+Data Analytics · Machine Learning · AI
 
 Graduate student in Business Analytics and AI at Ontario Tech University with 8+ years of experience in analytics pipeline development, SQL optimization, data validation, and reporting automation.
 
-📄 [**Download Resume**](Sushmita_Resume.pdf)
+📄 [View Resume](Sushmita_Resume.pdf)  ·  [LinkedIn](https://www.linkedin.com/in/sushmitabehera21/)  ·  [GitHub](https://github.com/Sushmitab93)
 
 ---
 
@@ -28,9 +28,3 @@ Developed and backtested 11 technical indicator-based trading strategies across 
 **Data Tools:** Tableau, Power BI, Streamlit, Git
 
 **Data Engineering:** Apache Kafka, Apache Spark, Delta Lake, MongoDB, Docker, AWS S3
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/sushmitabehera21/) · [GitHub](https://github.com/Sushmitab93)
